@@ -48,6 +48,7 @@ body {
 .card p {
   font-size: 0.938rem;
   line-height: 1.4;
+  color: var(--transparent-white);
 }
 
 .card__container {
